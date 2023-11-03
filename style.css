@@ -1,0 +1,18 @@
+*{margin=0;
+padding: 0;
+box-sizing: border-box;}
+
+html,body{height: 100%;
+width: 100%;}
+
+#bg{height: 100%;
+  width: 100%;
+background-image: url(pexels-james-lee-6054896.jpg);
+  background-size: cover;
+}
+
+h1{position:absolute;
+  left: 50%;
+  right: 50%;
+  transform: (-50%,-50%)
+}
